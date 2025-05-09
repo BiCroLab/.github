@@ -10,6 +10,9 @@ A nextflow pipeline for the analysis of GPSeq sequencing data:  [nextflow-gpseq]
 A pipeline for analysis imaging data from GPSeq experiments:   [radiantkit](https://github.com/BiCroLab/radiantkit) 
 > Girelli, G., Custodio, J., Kallas, T. et al. Nat Biotechnol 38, 1184–1193 (2020). [https://doi.org/10.1038/s41587-020-0519-y](https://doi.org/10.1038/s41587-020-0519-y)
 
+### :round_pushpin: FISH Probe Design
+Slurm pipeline for generating FISH probes for a large number of input files: [prb pipeline](https://github.com/BiCroLab/fish_probe_design)
+
 ### :round_pushpin: scCUTseq
 Code and data used for scCUTseq manuscript: [scCUTseq](https://github.com/BiCroLab/scCUTseq)
 > Zhang, N., Harbers, L., Simonetti, M. et al. Nat Commun 15, 3475 (2024). [https://doi.org/10.1038/s41467-024-47664-z](https://doi.org/10.1038/s41467-024-47664-z)
